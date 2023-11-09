@@ -1,0 +1,30 @@
+* {
+  box-sizing: border-box;
+}
+.primarycyan {
+  color: hsl(171, 66%, 44%);
+}
+.bg-primarycyan {
+  background-color: hsl(171, 66%, 44%);
+}
+.primaryblue {
+  color: hsl(233, 100%, 69%);
+}
+.bg-primaryblue {
+  background-color: hsl(233, 100%, 69%);
+}
+.body_f-size {
+  font-size: 1rem;
+}
+h1,
+h2,
+h3 {
+  color: hsl(210, 10%, 33%);
+}
+p {
+  color: hsl(201, 11%, 66%);
+}
+body {
+  font-family: "Bai Jamjuree";
+  background-color: white;
+}
